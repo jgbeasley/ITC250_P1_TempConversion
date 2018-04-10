@@ -1,0 +1,32 @@
+
+h1 {
+    margin-top: 50px;
+    font-size: 40;
+    color: 003375;
+    font-family: helvetica;
+    padding: 10px;
+}
+
+body {
+	text-align: center;
+    background-image: url("thermometer.jpg");
+    background-repeat: inherit;
+}
+
+div{
+    display: inline-block; 
+    text-align: left;
+    font-family: helvetica;
+    background-color: E95A65;
+    padding: 20px;
+    padding-bottom: 8px;
+    border-radius: 25px;
+}
+
+#button{
+    display: inline-block; 
+    padding: 10px;
+    text-align: center;
+}
+
+
