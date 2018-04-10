@@ -1,5 +1,5 @@
 <?php
-//gp3Temperature.php
+//gp2Temp.php
 define('THIS_PAGE', basename($_SERVER['PHP_SELF'])); //figure out the name of the current page
 
 	$temp = $_POST['Temperature'];
