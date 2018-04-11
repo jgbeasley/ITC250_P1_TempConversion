@@ -1,23 +1,28 @@
 
 h1 {
     margin-top: 50px;
-    font-size: 40;
-    color: 003375;
-    font-family: helvetica;
+    font-size: 3em;
+    color: #001c41;
+    font-family: 'Gugi', cursive;
+    font-weight: 800;
     padding: 10px;
 }
 
 body {
 	text-align: center;
-    background-image: url("thermometer.jpg");
-    background-repeat: inherit;
+    background: linear-gradient(rgba(255,255,255,.15),rgba(95,95,95,.15)), url("images/background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: gainsboro;
 }
 
 div{
     display: inline-block; 
     text-align: left;
-    font-family: helvetica;
-    background-color: E95A65;
+    font-family: 'Gugi', cursive;
+    background-color: rgba(0,19,44,.5);
+    border: 3px double #00132c;
     padding: 20px;
     padding-bottom: 8px;
     border-radius: 25px;
