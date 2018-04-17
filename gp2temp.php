@@ -34,7 +34,7 @@ define('THIS_PAGE', basename($_SERVER['PHP_SELF'])); //figure out the name of th
 		<div class="form-group row">
 		     <label for="lgFormGroupInput" class="col-sm-2 col-form-label col-form-label-lg">Temperature</label>
 		     <div class="col-sm-10">
-		         <input type="text" class="form-control form-control-lg" id="lgFormGroupInput" name="Temperature" placeholder=100>
+		         <input type="text" class="form-control form-control-lg" id="lgFormGroupInput" name="Temperature" placeholder="Place Temperature here">
 		     </div>
 		</div>
 		<div class="form-check">
